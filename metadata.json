@@ -1,0 +1,6 @@
+{
+  "name": "DeadGrid — Pixel Zombie Survival RPG & Metropolis Builder",
+  "description": "Top-down pixel-art zombie survival RPG and city builder featuring autonomous builders, ComputerOS workstations, malls, luxury hotels, farmland, cave ore mining, armored helicopters, military jeeps, and dynamic horde events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
